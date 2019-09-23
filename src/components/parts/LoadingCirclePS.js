@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
-class LoadingCircleCss extends Component {
+class LoadingCirclePS extends Component {
   constructor() {
     super()
 
@@ -15,7 +15,7 @@ class LoadingCircleCss extends Component {
     return (
       <div>
         <PieChart
-          data={[{ value: 1, key: 1, color: '#256F6C' }]}
+          data={[{ value: 1, key: 1, color: '#E38627' }]}
           reveal={90}
           lineWidth={20}
           background="#bfbfbf"
@@ -28,4 +28,4 @@ class LoadingCircleCss extends Component {
   }
 }
 
-export default LoadingCircleCss
+export default LoadingCirclePS

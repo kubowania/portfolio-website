@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
 class LoadingCircleJS extends Component {
-  constructor(props) {
-    super(props)
+  constructor() {
+    super()
 
     this.state = {
     }
@@ -12,12 +12,11 @@ class LoadingCircleJS extends Component {
 
 
   render() {
-    console.log(this.props.percentage )
     return (
       <div>
         <PieChart
-          data={[{ value: 1, key: 1, color: '#E38627' }]}
-          reveal={this.props.percentage}
+          data={[{ value: 1, key: 1, color: '#2D866E' }]}
+          reveal={40}
           lineWidth={20}
           background="#bfbfbf"
           lengthAngle={270}

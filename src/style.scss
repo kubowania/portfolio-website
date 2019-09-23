@@ -22,19 +22,62 @@ div.hero-body.mainhero {
   font-weight: 500;
 }
 
-a {
-  background-color: #f2d357;
-  border-radius: 0;
+.nav-subtitlelink {
+  font-family: 'Be Vietnam', sans-serif;
+  color:#4BC39B;
+  font-size: 20px;
+  font-weight: 500;
 }
+
+h3 {
+  font-family: 'Be Vietnam', sans-serif;
+  color:#36454f;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+li {
+  font-family: 'Be Vietnam', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.home {
+  margin-top: 20px;
+}
+
 
 .languages {
   display: flex;
-  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: -20px;
+  margin-right: -20px;
 }
 
 .languagedescription {
   text-align: center;
   display:inline-block;
-  width: 80px;
+  min-width: 80px;
+  max-width: 80px;
   margin: 20px;
+}
+
+.worktitle {
+  font-family: 'Be Vietnam', sans-serif;
+  color: #1d2c38;
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.subtitlework {
+  font-family: 'Be Vietnam', sans-serif;
+  color: #1d2c38;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+.footer {
+  background-color: #f2d357;
+  margin-top: 100px;
 }
