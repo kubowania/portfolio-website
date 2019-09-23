@@ -4,8 +4,37 @@
   background-color: #1d2c38;
 }
 
+div.hero-body.mainhero {
+  width: 1100px;
+}
+
+.maintitle {
+  font-family: 'Be Vietnam', sans-serif;
+  color: #f2d357;
+  font-size: 70px;
+  font-weight: 600;
+}
+
+.nav-subtitle {
+  font-family: 'Be Vietnam', sans-serif;
+  color: #eaf7ff;
+  font-size: 20px;
+  font-weight: 500;
+}
 
 a {
   background-color: #f2d357;
   border-radius: 0;
+}
+
+.languages {
+  display: flex;
+  margin: 20px;
+}
+
+.languagedescription {
+  text-align: center;
+  display:inline-block;
+  width: 80px;
+  margin: 20px;
 }
