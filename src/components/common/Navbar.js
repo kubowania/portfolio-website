@@ -30,7 +30,7 @@ class Navbar extends React.Component {
 
           <h2 className="nav-subtitle">Starting an app is expensive.</h2>
           <br/>
-          <h2 className="nav-subtitle">Build your minimal viable product using a junior developer. Cut your<br/>costs and help a young developer build their portfolio.</h2>
+          <h2 className="nav-subtitle">Build your minimal viable product using a junior developer. Limit your<br/>costs and help a young developer build their portfolio.</h2>
           <br/>
           <a href="#more-info" className="nav-subtitlelink">Read more</a>
         </div>
