@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "serve": "webpack-dev-server --mode=development",
-    "build": "webpack -p",
-    "deploy": "yarn build && gh-pages -d dist"
-  },
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "build": "webpack",
+      "serve": "webpack-dev-server --mode=development",
+      "deploy": "npm run build && gh-pages -d dist"
+    },
   "author": "",
   "license": "ISC",
   "description": "",
