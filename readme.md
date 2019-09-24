@@ -1,5 +1,5 @@
 # Project-05
-Portfolio website bult in React
+Portfolio website built in React
 
 
 This was a website built to showcase my technical skills, web design skills, as well as GitHub projects: https://kubowania.github.io/Project-05/dist/
@@ -8,7 +8,7 @@ This was a website built to showcase my technical skills, web design skills, as 
 
 ## Project timeline and technologies used
 
-Build a React websitin 24 hours to showcase the following:
+Build a React website in 24 hours to showcase the following:
 * My technical skill set
 * My web design skill set
 * My projects
