@@ -2,13 +2,7 @@ import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
 class LoadingCirclePython extends Component {
-  constructor(props) {
-    super(props)
 
-    this.state = {
-    }
-
-  }
 
 
   render() {

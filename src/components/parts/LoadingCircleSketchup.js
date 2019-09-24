@@ -2,13 +2,7 @@ import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
 class LoadingCircleSketchup extends Component {
-  constructor() {
-    super()
 
-    this.state = {
-    }
-
-  }
 
 
   render() {

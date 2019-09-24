@@ -32,7 +32,7 @@ class Navbar extends React.Component {
           <br/>
           <h2 className="nav-subtitle">Build your minimal viable product using a junior developer. Cut your<br/>costs and help a young developer build their portfolio.</h2>
           <br/>
-          <a className="nav-subtitlelink"><Link to="/about"></Link>Read more</a>
+          <a href="#more-info" className="nav-subtitlelink">Read more</a>
         </div>
         <div className="hero-foot">
           <nav className="tabs is-boxed">

@@ -2,13 +2,6 @@ import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
 class LoadingCircleCWebpack extends Component {
-  constructor() {
-    super()
-
-    this.state = {
-    }
-
-  }
 
 
   render() {

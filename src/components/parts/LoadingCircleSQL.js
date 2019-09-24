@@ -2,13 +2,6 @@ import React, { Component } from 'react'
 import PieChart from 'react-minimal-pie-chart'
 
 class LoadingCircleSQL extends Component {
-  constructor(props) {
-    super(props)
-
-    this.state = {
-    }
-
-  }
 
 
   render() {
