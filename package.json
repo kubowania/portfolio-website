@@ -6,7 +6,7 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "build": "webpack",
       "serve": "webpack-dev-server --mode=development",
-      "deploy": "npm run build && gh-pages -d dist -b master"
+      "deploy": "npm run build && gh-pages -d dist"
     },
   "author": "",
   "license": "ISC",
