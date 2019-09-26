@@ -2,7 +2,7 @@
 Portfolio website built in React
 
 
-This was a website built to showcase my technical skills, web design skills, as well as GitHub projects: https://kubowania.github.io/Project-05/dist/
+This was a website built to showcase my technical skills, web design skills, as well as GitHub projects: https://aniakubow.com
 
 
 
